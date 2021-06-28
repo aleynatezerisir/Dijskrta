@@ -1,0 +1,10 @@
+A
+A B 20
+A C 30
+A D 10
+B E 30
+B C 40
+C D 10
+C E 20
+D C 5
+D E 20

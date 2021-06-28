@@ -1,0 +1,7 @@
+Starting Node: U
+U 0 NULL
+X 5 U
+W 3 U
+V 6 W
+Z 12 Y
+Y 10 V

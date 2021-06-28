@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1620996410 source:c:\users\kullanýcý\desktop\dijskrta\main.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<graphics.h>
+
